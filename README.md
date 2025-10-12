@@ -21,7 +21,7 @@ Electrical Engineer & Systems Engineer specializing in **Smart Grids, Data Scien
 - 💼 LinkedIn: [linkedin.com/in/engr-josue-rios](http://www.linkedin.com/in/engr-josue-rios/)
 
 ## 🚀 Currently
-- Advancing skills in Cloud Computing & Applied Data Science.
+- Advancing skills in Cloud Computing, Cybersecurity & Applied Data Science.
 - Exploring Machine Learning applications for energy optimization.
 - Contributing to secure digital transformation in the energy sector.
 
