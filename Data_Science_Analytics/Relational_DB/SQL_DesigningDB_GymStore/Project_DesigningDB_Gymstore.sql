@@ -35,7 +35,7 @@ INSERT INTO gym_palace VALUES (14, "Kettlebell 20kg", 54.95, "BruteForce", 6);
 INSERT INTO gym_palace VALUES (15, "Multivitamin Pack", 28.60, "HealthFuel", 25);
 
 
--- Orderign the gym_palace table--
+-- Ordering the gym_palace table--
 SELECT * FROM gym_palace ORDER BY price DESC;
 
 --This shows the total number of items and their total storage value--
