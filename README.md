@@ -45,3 +45,4 @@ Electrical & Systems Engineer specializing in **Smart Grids, Data Science, and C
 ## 📫 Let's Connect
 - 📧 Email: engrjosuerios@gmail.com
 - 💼 LinkedIn: <a href="http://www.linkedin.com/in/engr-josue-rios/">Engr. Josué Ríos C</a>.
+- 🖥️ LeetCode: <a href="[https://leetcode.com/u/engrjosuerios/">engrjosuerios</a>.
