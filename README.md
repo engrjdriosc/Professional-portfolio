@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Josué Ríos! </h1>
 <h3>
-Engineer | Data Science, IoT & Cybersecurity enthusiast | Digital Energy Transformation
+Engineer | DataSecOps | Digital Energy Transformation
 </h3>
 
 
