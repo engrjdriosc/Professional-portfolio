@@ -25,6 +25,7 @@ Example: `LeetCode_180_MEDIUM_ConsecutiveNumbers.txt`
 | `LeetCode_180_MEDIUM_ConsecutiveNumbers.txt` | LeetCode | 180 | MEDIUM | Find consecutive numbers appearing times |
 | `LeetCode_182_EASY_DuplicateEmails.txt` | LeetCode | 182 | EASY | Identify duplicate email addresses |
 | `LeetCode_183_EASY_CustomersWhoNeverOrder.txt` | LeetCode | 183 | EASY | Find customers with no orders |
+| `Leetcode_QuestsPath_SQLI.txt` | LeetCode | SQL I | EASY | Quests Path|
 
 ## ✅ Validation & Testing
 Each solution has been:
