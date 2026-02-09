@@ -7,6 +7,9 @@
 ## 📁 Files in This Project
 - `CollegeRankings_Analysis.ipynb` - Complete Jupyter notebook with analysis.
 - `CollegeRankingsData.csv` - Dataset from Carnegie Mellon University.
+- `3D_Analysis_TuitionVsRoom_boardVsPerStudent_Expenditure.png`.
+- `NumberOfHigherEducation_US_Colleges.png`.
+- `RegressionAnalysis_ExpenditureVsOutStateTuition.png`.
 - `README.md` - This documentation file.
 
 
